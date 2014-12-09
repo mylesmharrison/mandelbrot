@@ -2,11 +2,10 @@ mandelbrot.R
 ============
 [Blog post](http://)
 
-The Mandelbrot Set in R
-Myles Harrison
-[http://www.everydayanalytics.ca](http://www.everydayanalytics.ca)
-
-
+The Mandelbrot Set in R  
+Myles Harrison  
+[http://www.everydayanalytics.ca](http://www.everydayanalytics.ca)  
+ 
 ### Example plots:
 ![Plot 1](http://1.bp.blogspot.com/-17MM_Z7fsmc/VIY9ym9qAyI/AAAAAAAACA0/5NE1ZuOBd_U/s1600/plot1.png)  
 ![Plot 2](http://2.bp.blogspot.com/-hmyLmaR36aA/VIY90CEJIOI/AAAAAAAACA8/54gr6qA3mKo/s1600/plot2.png)  
