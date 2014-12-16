@@ -4,10 +4,9 @@
 # -------------------
 
 # "Naive" version
-
 mandelbrot_naive <- function(xmin=-2, xmax=2, nx=500,
                                   ymin=-1.5, ymax=1.5, ny=500,
-                                  n=100, showplot=TRUE, progress=TRUE,
+                                  n=100, showplot=TRUE,
                                   cols=colorRampPalette(c("blue","yellow","red","black"))(11)) 
 {
 
@@ -60,4 +59,13 @@ mandelbrot_vectorized <- function(xmin=-2, xmax=2, nx=500,
   
   return(k)
   
+}
+
+# Compare naive and vectorized runtimes
+compare_runtimes <- function()
+{
+  naive_time <- system.time(mandelbrot_naive(showplot=F))
+  vector_time <- system.time(mandelbrot_vectorized(showplot=F))
+  print(naive_time)
+  print(vector_time)
 }
