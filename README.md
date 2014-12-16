@@ -1,10 +1,10 @@
 mandelbrot.R
 ============
-[Blog post](http://www.everydayanalytics.ca/2014/12/the-mandelbrot-set-in-r.html)
 
 The Mandelbrot Set in R  
 Myles Harrison  
 [http://www.everydayanalytics.ca](http://www.everydayanalytics.ca)  
+[Backlink / Blog post](http://www.everydayanalytics.ca/2014/12/the-mandelbrot-set-in-r.html)
  
 ### Example plots:
 ![Plot 1](http://1.bp.blogspot.com/-17MM_Z7fsmc/VIY9ym9qAyI/AAAAAAAACA0/5NE1ZuOBd_U/s1600/plot1.png)  
