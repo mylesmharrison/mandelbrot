@@ -1,6 +1,6 @@
 mandelbrot.R
 ============
-[Blog post](http://)
+[Blog post](http://www.everydayanalytics.ca/2014/12/the-mandelbrot-set-in-r.html)
 
 The Mandelbrot Set in R  
 Myles Harrison  
