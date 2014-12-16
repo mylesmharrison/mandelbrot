@@ -1,6 +1,6 @@
-# Mandelbrot.R
+# mandelbrot.R
 # Myles Harrison
-# everydayanaltics.ca
+# http://www.everydayanalytics.ca
 # -------------------
 
 # "Naive" version
